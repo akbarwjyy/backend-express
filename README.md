@@ -3,6 +3,7 @@
 Proyek ini adalah backend API sederhana menggunakan Node.js, Express, dan Prisma ORM. API ini dapat digunakan sebagai backend untuk aplikasi fullstack (misal: React di frontend).
 
 ## Fitur
+
 - Autentikasi (login & register)
 - Manajemen user
 - Validasi input
@@ -11,6 +12,7 @@ Proyek ini adalah backend API sederhana menggunakan Node.js, Express, dan Prisma
 - Menggunakan Prisma ORM untuk database
 
 ## Struktur Direktori
+
 ```
 backend-express/
 ├── index.js                # Entry point aplikasi
@@ -34,6 +36,7 @@ backend-express/
 ```
 
 ## Instalasi
+
 1. Clone repository ini
 2. Masuk ke folder `backend-express`
 3. Install dependencies:
@@ -50,9 +53,11 @@ backend-express/
    ```
 
 ## Konfigurasi
+
 - Port default: `3000`
 - Endpoint utama: `http://localhost:3000/`
 - Endpoint API: `http://localhost:3000/api/`
 
 ## Lisensi
+
 Proyek ini bebas digunakan untuk pembelajaran.
